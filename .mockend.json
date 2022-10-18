@@ -1,6 +1,23 @@
-
-    {
-      "User": {
-        "title": { "string": {} }
+{
+  "User": {
+    "name": {
+      "string": {}
+    },
+   "date": {
+      "string": {}
+    },
+    "statusMessage": {
+      "string": [
+        "accept",
+        "upcoming",
+        "completed"
+      ]
+    },
+    "amount": {
+      "int": {}
+        "min": 10,
+        "max": 300
       }
-    }
+    } 
+  }
+}
