@@ -11,11 +11,10 @@
     }
   },
     "status": {
-      "string": [
+      "string": {
         "accept",
-        "upcoming",
-        "completed"
-      ]
+       
+      }
     },
     "amount": {
       "int": {
