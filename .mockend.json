@@ -112,7 +112,9 @@
          },
          "status": {
             "string": [
-                "accept"
+                "accept",
+                "mark as complete",
+                "completed"
             ]
          },
          "amount": {
