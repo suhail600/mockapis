@@ -12,8 +12,7 @@
   },
     "status": {
       "string": {
-        "accept",
-       
+        "accept"
       }
     },
     "amount": {
@@ -22,6 +21,5 @@
         "max": 300
       }
     } 
-    }
-  
+  }  
 }
