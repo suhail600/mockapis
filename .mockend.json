@@ -1,6 +1,7 @@
 {
   "User": {
-    "name": {
+    "new":{
+      "name": {
       "string": {}
     },
     "createdAt": {
@@ -22,5 +23,6 @@
         "max": 300
       }
     } 
+    }
   }
 }
