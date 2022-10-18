@@ -10,9 +10,9 @@
             }
          },
          "status": {
-            "string": {
+            "string": [
                 "accept"
-            }
+            ]
          },
          "amount": {
                "int": {
