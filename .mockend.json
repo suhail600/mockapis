@@ -1,29 +1,7 @@
+
+
 {
-    "New":{
-         "name": {
-         "string": [
-         "Arun"
-         ]
-         },
-         "createdAt": {
-            "dateTime": {
-               "min": "2010-01-01T00:00:00Z",
-               "max": "2020-12-31T23:59:59Z"
-            }
-         },
-         "status": {
-            "string": [
-                "accept"
-            ]
-         },
-         "amount": {
-               "int": {
-                 "min": 10,
-                 "max": 300
-             }
-          } 
-   } 
-    "Upcoming":{
+ "Upcoming":{
         "name":{
         "string":{}
         }
