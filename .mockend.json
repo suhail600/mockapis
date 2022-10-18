@@ -3,12 +3,12 @@
     "name": {
       "string": {}
     },
-  "createdAt: {
-    "dateTime": {
-      "min": "2010-01-01T00:00:00Z",
-      "max": "2020-12-31T23:59:59Z"
-    }
-},
+    "createdAt: {
+      "dateTime": {
+        "min": "2010-01-01T00:00:00Z",
+        "max": "2020-12-31T23:59:59Z"
+      }
+    },
     "status": {
       "string": [
         "accept",
@@ -23,4 +23,4 @@
       }
     } 
   }
-
+}
