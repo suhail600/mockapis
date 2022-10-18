@@ -4,10 +4,7 @@
       "string": {}
     },
     "createdAt": {
-    "dateTime": {
-      "min": "2010-01-01",
-      "max": "2020-12-31"
-    }
+    "dateTime": {}
   },
     "status": {
       "string": [
