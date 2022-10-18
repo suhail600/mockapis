@@ -6,7 +6,7 @@
    "date": {
       "string": {}
     },
-    "statusMessage": {
+    "status": {
       "string": [
         "accept",
         "upcoming",
