@@ -1,7 +1,9 @@
 {
     "New":{
          "name": {
-         "string": {}
+         "string": [
+         "Arun"
+         ]
          },
          "createdAt": {
             "dateTime": {
