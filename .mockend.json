@@ -1,16 +1,10 @@
 {
   "Balance": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+    "amount": { "string": {
+    "250"
+    } 
+    },
   },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
 }
 
     
