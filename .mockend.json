@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Balance": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
