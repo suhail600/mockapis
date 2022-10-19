@@ -1,11 +1,8 @@
 {
     "Balance":{
-         "amount": {
-          
-                "200"
-                         
-                   } 
-             }  
+         "title": {
+    "loremWords": { "minLength": 5, "maxLength": 20 }
+  }
 }   
     
 
