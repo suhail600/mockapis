@@ -1,7 +1,11 @@
 {
   "Balance": {
-    "amount": "250"
-    }
+    "amount": {
+    int:[
+      250
+    ]
+   }
+  }
 }
 
     
