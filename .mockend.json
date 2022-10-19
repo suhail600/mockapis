@@ -1,10 +1,7 @@
 {
   "Balance": {
-    "amount": { "string": {
-    "250"
-    } 
+    "amount": "250"
     }
-  }
 }
 
     
