@@ -1,6 +1,6 @@
 {
   "Home":{
-    "home_slider_1":{
+ 
        "image":{
           "string":
                   [
@@ -9,7 +9,7 @@
                  "https:\/\/kidzy.qa\/wp-content\/uploads\/2022\/06\/app-banner-3_3_11zon.jpg",
                   "https:\/\/kidzy.qa\/wp-content\/uploads\/2022\/02\/001.webp"
                  ]
-             }
+             
         }
     }
 }
