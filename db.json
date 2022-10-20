@@ -1,28 +1,9 @@
  {
-    "Home": {
-        "home_slider_1": [
-            {
-                "image": {
-                    "string": [
-                        "https:\/\/kidzy.qa\/wp-content\/uploads\/2022\/06\/app-banner-1_4_11zon.jpg",
-                        "https:\/\/kidzy.qa\/wp-content\/uploads\/2022\/06\/app-banner-2_2_11zon.jpg",
-                        "https:\/\/kidzy.qa\/wp-content\/uploads\/2022\/06\/app-banner-3_3_11zon.jpg",
-                        "https:\/\/kidzy.qa\/wp-content\/uploads\/2022\/02\/001.webp"
-                    ]
-                },
-                "type": {
-                    "string": [
-                        "category",
-                        "brand"
-                    ]
-                },
-                "category": {
-                    "int": {
-                        "min": 100,
-                        "max": 999
-                    }
-                },
-            },
-        ]
+  "home_slider_1": [
+    {
+      "image": "https://kidzy.qa/wp-content/uploads/2022/06/app-banner-1_4_11zon.jpg",
+      "type": "category",
+      "product": false,
+      "category": 547
     }
 }
